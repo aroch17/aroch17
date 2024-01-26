@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, my name is Ayush, I am a second year student at the University of Edinburgh.
+Hey! My name is Ayush, and I am a second year student at the University of Edinburgh.
 
 
 # 💻 Tech Stack:
