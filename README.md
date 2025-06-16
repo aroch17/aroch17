@@ -1,5 +1,6 @@
+# 💫 About Me:
+Hey! I am a Computer Science student at the University of Edinburgh.
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-rochlani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushrochlani0405@gmail.com) 
 
 # 💻 Tech Stack:
