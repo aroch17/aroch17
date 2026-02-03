@@ -8,7 +8,4 @@ Hey! I am a Computer Science student at the University of Edinburgh.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aroch17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=aroch17&limit=3&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
